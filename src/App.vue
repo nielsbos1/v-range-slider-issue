@@ -5,6 +5,9 @@
       <v-row>
         <v-col cols="3">
           <v-range-slider></v-range-slider>
+          <!-- <v-slider></v-slider> Uncomment this and the v-range-slider will display correctly -->  
+          <!-- <v-range-slider></v-range-slider> Uncomment this and the v-range-slider will still display incorrectly -->
+          
         </v-col>
       </v-row>
       </v-container>
